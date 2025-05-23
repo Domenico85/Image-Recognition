@@ -19,7 +19,7 @@ A modern, responsive React application that generates detailed AI-powered descri
 
 ## 📸 Screenshots
 
-[\[Scrrenshot\]](https://ibb.co/HLdVstJ7)
+[\[Screenshot\]](https://ibb.co/HLdVstJ7)
 
 ## 🛠️ Technologies Used
 
