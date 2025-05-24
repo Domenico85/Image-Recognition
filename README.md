@@ -82,6 +82,7 @@ image-description-generator/
 │   └── ...
 ├── package.json
 ├── tailwind.config.js
+├── vite.config.js
 └── README.md
 ```
 
